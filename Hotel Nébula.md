@@ -115,7 +115,7 @@
 }
 ```
 
-# Quarto 1 (Lucas Oliveira)
+# Quarto 1 
 
 
 ``` json
