@@ -149,7 +149,7 @@
 }
 
 "status": "disponivel",
- `{
+ {
 "fotos": 
     
     "https://store.nebulahotel.com/quartos/104/foto1.jpg",
