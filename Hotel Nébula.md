@@ -33,6 +33,7 @@
 }
 
 "data_do_cadastro: 14/09/2025",
+"Horário: 22:34H"
 "Ativo: True"
 }
 ```
