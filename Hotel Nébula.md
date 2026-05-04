@@ -1,6 +1,6 @@
 # Hóspedes do Hotel Nébula
 
-## Hóspedes
+## Hóspede 1
 
 ```json
 {
@@ -33,14 +33,44 @@
 
 "data_do_cadastro: 14/09/2025",
 "Ativo: True"
-
-
-
-
-
 }
 ```
+```json
+{
+## Hóspede 2
+"_id": "9879", "(quarto N110)"
+"Nome": "Fernando Silva Costa",
+"CPF" : "214.908.548.95",
+"Email": "fersilva31@gmail.com",
+"Telefone": " +55 97853-4711",
+"data_nascimento": "02/12/1997",
+"nacionalidade" : "Brasileiro",
+{
+    "endereço": 
 
+    "Rua": "Rua Carlos Teixeira, 113",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "Cep": "02570-190",
+    "Pais": "Brasil",
+}
+
+{
+"Preferências":
+
+"tipo_de_quarto": "Standard",
+"andar_baixo": "true",
+"bebidas: true",
+"cigarros: false",
+"cama: king",
+"banheiro: 1"
+}
+
+"data_do_cadastro: 11/04/2025",
+"Horário: 19:43H"
+"Ativo: True"
+}
+```
 
 
 
