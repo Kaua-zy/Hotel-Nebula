@@ -71,7 +71,7 @@
 }
 
 "data_do_cadastro: 11/04/2025",
-"Horário: 22:47H"
+"Horário: 18:47H"
 "Ativo: True"
 }
 ```
