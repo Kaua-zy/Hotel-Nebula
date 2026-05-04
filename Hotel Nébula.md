@@ -137,7 +137,7 @@
 "Concierges",
 "Isolamento Acústico":,
 "TV": 85
-"cama": 2 King
+"cama": "2 King"
 }
 
 "Caracteristicas_do_quarto":
