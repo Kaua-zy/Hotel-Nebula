@@ -35,9 +35,10 @@
 "Ativo: True"
 }
 ```
+## Hóspede 2
 ```json
 {
-## Hóspede 2
+
 "_id": "9879", "(quarto N110)"
 "Nome": "Fernando Silva Costa",
 "CPF" : "214.908.548.95",
