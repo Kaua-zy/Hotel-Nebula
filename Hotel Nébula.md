@@ -1,4 +1,4 @@
-# Hóspedes do Hotel Nébula
+# Hotel Nébula
 
 ## Hóspede 1
 
