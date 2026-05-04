@@ -72,7 +72,44 @@
 "Ativo: True"
 }
 ```
+## Hóspedes 3
 
+```json
+{
+
+"_id: 9880", "(quarto N100)"
+"Nome": "Luiz Antônio da Silva",
+"CPF" : "274.911.545.25",
+"Email": "luizsilva1998@gmail.com",
+"Telefone": " +55 98732-5511",
+"data_nascimento": "10/04/1998",
+"nacionalidade" : "Brasileiro",
+{
+    "endereço": 
+
+    "Rua": "Rua Carlos Teixeira, 113",
+    "Cidade": "São Paulo",
+    "Estado": "SP",
+    "Cep": "02570-190",
+    "Pais": "Brasil",
+}
+
+{
+"Preferências":
+
+"tipo_de_quarto": "Standard",
+"andar_baixo": "true",
+"bebidas: true",
+"cigarros: false",
+"cama: king",
+"banheiro: 1"
+}
+
+"data_do_cadastro: 11/04/2025",
+"Horário: 19:43H"
+"Ativo: True"
+}
+```
 
 
 
