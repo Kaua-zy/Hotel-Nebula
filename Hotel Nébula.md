@@ -167,11 +167,11 @@
 ``` json
 {
 "_id": "9879",
-"numero_quarto": N110",
+"numero_quarto": "N110",
 "andar" : "N110",
-"tipo" : Standard",
-"Categoria" : Luxo",
-"Capacidade": 2",
+"tipo" : "Standard",
+"Categoria" : "Luxo",
+"Capacidade": "2",
 "preço_diária": "100,00",
 "descrição": "Quarto com vista para a praça",
 {
@@ -193,7 +193,7 @@
 }
 
 "status": "disponivel",
- `{
+ {
 "fotos": 
     
     "https://store.nebulahotel.com/quartos/94/foto1.jpg",
