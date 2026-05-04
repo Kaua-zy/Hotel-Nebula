@@ -6,6 +6,7 @@
 {
 
 "_id": "9878",
+"Quarto: "N200"
 "Nome": "Lucas Oliveira",
 "CPF" : "234.768.978.45",
 "Email": "lucas1oliveiea@gmail.com",
@@ -39,7 +40,8 @@
 ```json
 {
 
-"_id": "9879", "(quarto N110)"
+"_id": "9879", 
+"Quarto: "N110"
 "Nome": "Fernando Silva Costa",
 "CPF" : "214.908.548.95",
 "Email": "fersilva31@gmail.com",
@@ -77,7 +79,8 @@
 ```json
 {
 
-"_id: 9880", "(quarto N100)"
+"_id: 9880",
+"Quarto:"N100"
 "Nome": "Luiz Antônio da Silva",
 "CPF" : "274.911.545.25",
 "Email": "luizsilva1998@gmail.com",
