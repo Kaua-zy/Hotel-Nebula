@@ -115,7 +115,51 @@
 }
 ```
 
+# Quartos 1
 
+
+``` json
+{
+"_id": "9878",
+"numero_quarto: N200",
+"andar" : "8",
+"tipo : Superior",
+"Categoria : Luxo",
+"Capacidade: 5",
+"preço_diária": "300,00",
+"descrição": "Quarto com vista para a praia",
+{
+"Comodidades":
+"Suite Ampla",
+"spa (3 pessoas de Cada)",
+"Roupas de Cama premium",
+"Serviços de Quarto 24H",
+"Concierges",
+"Isolamento Acústico":,
+"TV": 85
+}
+
+"Caracteristicas_do_quarto":
+{
+"Vista": "Praia",
+"Banheira": "true",
+"Varanda": " true",
+"Moniliários_de_alta_qualidade": "true"
+"area_m2": 40
+}
+
+"status": "disponivel",
+ `{
+"fotos": 
+    
+    "https://store.nebulahotel.com/quartos/104/foto1.jpg",
+    "https://store.nebulahotel.com/quartos/105/foto2.jpg"
+ }
+ 
+  "ultima_limpeza": "13/04/2025" 
+  "Horário": "20:00H"
+}
+```
 
 
 
