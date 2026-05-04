@@ -161,6 +161,48 @@
   "Horário": "20:00H"
 }
 ```
+# Quartos 1
 
+
+``` json
+{
+"_id": "9879",
+"numero_quarto: N110",
+"andar" : "N110",
+"tipo : Standard",
+"Categoria : Luxo",
+"Capacidade: 2",
+"preço_diária": "100,00",
+"descrição": "Quarto com vista para a praça",
+{
+"Comodidades":
+"Quarto padrão",
+"Roupas de Cama, básicas"
+"Serviços de Quarto":"(4 vezes por dia)",
+"Isolamento Acústico":,
+"TV": 70
+}
+
+"Caracteristicas_do_quarto":
+{
+"Vista": "Praça",
+"Banheira": "false",
+"Varanda": " false",
+"area_m2": 29,
+"cama": 1,
+}
+
+"status": "disponivel",
+ `{
+"fotos": 
+    
+    "https://store.nebulahotel.com/quartos/94/foto1.jpg",
+    "https://store.nebulahotel.com/quartos/95/foto2.jpg"
+ }
+ 
+  "ultima_limpeza": "10/04/2025" 
+  "Horário": "23:00H"
+}
+```
 
 
