@@ -23,7 +23,7 @@
 }
 
 {
-"Prefenrências":
+"Preferências":
 
 "tipo_de_quarto": "Superior",
 "andar_alto": "true",
