@@ -284,3 +284,43 @@
 
 }
 ```
+# Reserva 2
+
+``` json
+{
+
+"id_reserva": "4780",
+"hospede_id": "9879",
+"hospede"
+{
+"nome": "Fernando Silva Costa",
+"email": "fersilva31@gmail.com",
+"Telefone": "+55 97853-4711",
+},
+
+"quarto_id": "9879"
+"quarto"
+{
+
+"numero":"110"
+"tipo": "standard"
+"preço_diaria": "100,00"
+
+},
+
+"data_checkin": "11/04/2025",
+"data_checkout": "16/09/2025",
+"num_noites": "5",
+"num_hospedes": "1",
+"valor_total":"500.00",
+"status": "confirmada",
+"canal": "https://store.nebulahotel.com",
+"codigo_reserva": "RSV-02670-2025",
+"observacoes": "Nenhuma",
+"criacao_checkin": "11/09/2025",
+"horario": "18:47",
+"criacao_checkin": "11/09/2025",
+"horario": "22:34"
+
+}
+```
