@@ -364,7 +364,7 @@
 
 }
 ```
-# Hospedagens 1
+# Hospedagen 1
 
 ``` json
 {
@@ -382,7 +382,7 @@
 {
 
 "servico_id" : "(ser9097)"
-"Serviços" : "acompanhamento" "bebidas", "cigarros" , "roupas de cama", "concierges"
+"Serviços" : "acompanhamento" "bebidas", "cigarros" , "roupas de cama", "concierges" , "lavanderia"
 }
 
 {
@@ -397,14 +397,15 @@
 "Bebidas": "(2 vezes, no almoço e janta)",
 
 "Concierges" : "(3 vezes ao dia)"
+"Lvanderia" 
 }
 
-  "total": "155.00",
+  "total": "406.00",
   "data": "15/09/2025"
 
- "total_servicos": 155.00,
+ "total_servicos": 405.00,
   "total_diarias": 1800.00,
-  "total_geral": 1245.00,
+  "total_geral": 2.205.00,
   "observacoes" : "nenhuma"
 
 }
