@@ -382,7 +382,7 @@
 {
 
 "servico_id" : "(ser9097)"
-"Serviços" : "acompanhamento"
+"Serviços" : "acompanhamento" "bebidas", "cigarros" , "roupas de cama", concierges"
 }
 
 {
