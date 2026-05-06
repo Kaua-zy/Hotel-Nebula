@@ -319,8 +319,48 @@
 "observacoes": "Nenhuma",
 "criacao_checkin": "11/09/2025",
 "horario": "18:47",
-"criacao_checkin": "11/09/2025",
+"atualizacao: "11/09/2025",
 "horario": "22:34"
+
+}
+```
+# Reserva 3
+
+``` json
+{
+
+"id_reserva": "4781",
+"hospede_id": "9880",
+"hospede"
+{
+"nome": "Luiz Antônio da Silva",
+"email": "luizsilva1998@gmail.com",
+"Telefone": "+55 99732-5511",
+},
+
+"quarto_id": "9877"
+"quarto"
+{
+
+"numero":"120"
+"tipo": "standard"
+"preço_diaria": "100,00"
+
+},
+
+"data_checkin": "11/04/2025",
+"data_checkout": "18/09/2025",
+"num_noites": "7",
+"num_hospedes": "1",
+"valor_total":"700.00",
+"status": "confirmada",
+"canal": "https://store.nebulahotel.com",
+"codigo_reserva": "RSV-02480-2025",
+"observacoes": "Nunca receber comida que contém lactose",
+"criacao_checkin": "11/04/2025",
+"horario": "18:47",
+"atualizacao": "11/04/2025",
+"horario": "18:47"
 
 }
 ```
