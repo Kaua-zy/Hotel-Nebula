@@ -214,11 +214,11 @@
 "Categoria : Standard",
 "Capacidade: 2",
 "preço_diária": "100,00",
-"descrição": "Quarto com vista para o  jardim",
+"descrição": "Quarto com vista para o jardim",
 {
 "Comodidades":
 "Quarto padrão",
-"Roupas de Cama: básicas"
+"Roupas de Cama: básicas",
 "Serviços de Quarto":"(4 vezes por dia)",
 "TV: 65"
 }
