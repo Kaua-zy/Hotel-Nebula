@@ -168,7 +168,7 @@
 {
 "_id": "9879",
 "numero_quarto": "N110",
-"andar" : "N110",
+"andar" : "6",
 "tipo" : "Standard",
 "Categoria" : "Luxo",
 "Capacidade": "2",
