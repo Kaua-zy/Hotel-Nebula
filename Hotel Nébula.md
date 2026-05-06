@@ -203,5 +203,45 @@
   "Horário": "23:00H"
 }
 ```
+# Quartos 3
 
+``` json
+{
+"_id": "9880",
+"numero_quarto: N120",
+"andar" : "7",
+"tipo : Standard",
+"Categoria : Standard",
+"Capacidade: 2",
+"preço_diária": "100,00",
+"descrição": "Quarto com vista para o  jardim",
+{
+"Comodidades":
+"Quarto padrão",
+"Roupas de Cama: básicas"
+"Serviços de Quarto":"(4 vezes por dia)",
+"TV: 65"
+}
+
+"Caracteristicas_do_quarto":
+{
+"Vista": "Jardim",
+"Banheira": "True",
+"Varanda": " false",
+"area_m2": 30,
+"cama": 1,
+}
+
+"status": "disponivel",
+ `{
+"fotos": 
+    
+    "https://store.nebulahotel.com/quartos/87/foto1.jpg",
+    "https://store.nebulahotel.com/quartos/86/foto2.jpg"
+ }
+ 
+  "ultima_limpeza": "10/04/2025" 
+  "Horário": "23:00H"
+}
+```
 
