@@ -379,10 +379,10 @@
 "funcionario_do_checkin": "Lucas Cardoso"
 "funcionario_do_checkout": "Matheus Alves"
 "servicos_consumidos":
- {
+{
 
 "servico_id" : "(ser9097)"
-"nome: café da manhã, acompanhamentos, bebidas, cigarros, roupas de cama ,
+"Serviços" : "café da manhã, acompanhamentos, bebidas, cigarros, roupas de cama,
 concierges"
 }
 
