@@ -179,8 +179,7 @@
 "Quarto padrão",
 "Roupas de Cama, básicas"
 "Serviços de Quarto":"(4 vezes por dia)",
-"Isolamento Acústico":,
-"TV": 70
+"TV: 65"
 }
 
 "Caracteristicas_do_quarto":
