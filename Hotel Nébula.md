@@ -410,3 +410,39 @@
 
 }
 ```
+# Hospedagens 2
+
+``` json
+{
+
+"id": "9879",
+"id_reserva": "4780",
+"hospede_id": "9859",
+"quarto_id" : "9849",
+"checkin" : "11/09/2025",
+"checkout" : "16/09/2025",
+"status": "encerrada",
+"funcionario_do_checkin": "Michel Oliveira"
+"funcionario_do_checkout": "Marcelo Henrique"
+"servicos_consumidos":
+ {
+
+"servico_id" : "(ser9097)"
+"nome": "café da manhã", " bebidas" , "Lavanderia"
+}
+
+{
+  "quantidade": 
+
+"Café da manhã" "(uma vez ao dia)"
+"Bebidas": "(2 vezes, no almoço e janta)",
+
+
+  "total": "140.00",
+  "data": "13/04/2025"
+
+ "total_servicos": 140.00,
+  "total_diarias": 640.00,
+  "total_geral": 780.00,
+  "observacoes" : "nenhuma"
+  }
