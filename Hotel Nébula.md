@@ -403,9 +403,9 @@
   "total": "406.00",
   "data": "15/09/2025"
 
- "total_servicos": 405.00,
-  "total_diarias": 1800.00,
-  "total_geral": 2.205.00,
+ "total_servicos": "405.00,"
+  "total_diarias": "1800.00,"
+  "total_geral": "2.205.00,"
   "observacoes" : "nenhuma"
 
 }
