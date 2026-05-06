@@ -244,4 +244,43 @@
   "Horário": "23:00H"
 }
 ```
+# Reserva 1
 
+``` json
+{
+
+"id_reserva": "4799",
+"hospede_id": "9878",
+"hospede"
+{
+"nome": "Lucas Oliveira",
+"email": "lucas1oliveiea@gmail.com",
+"Telefone": "+55 97453-2788",
+},
+
+"quarto_id": "9878"
+"quarto"
+{
+
+"numero":"200"
+"tipo": "standard"
+"preço_diaria": "300,00"
+
+},
+
+"data_checkin": "14/09/2025",
+"data_checkout": "20/09/2025",
+"num_noites": "6",
+"num_hospedes": "1",
+"valor_total":"1800.00",
+"status": "confirmada",
+"canal": "https://store.nebulahotel.com",
+"codigo_reserva": "RSV-02668-2025",
+"observacoes": "Solicita sempre um acompanhamento pós almoço",
+"criacao_checkin": "14/09/2025",
+"horario": "22:34"
+"criacao_checkin": "14/09/2025",
+"horario": "22:34"
+
+}
+```
