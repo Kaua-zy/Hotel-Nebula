@@ -170,7 +170,7 @@
 "numero_quarto": "N110",
 "andar" : "6",
 "tipo" : "Standard",
-"Categoria" : "Luxo",
+"Categoria" : "Standard",
 "Capacidade": "2",
 "preço_diária": "100,00",
 "descrição": "Quarto com vista para a praça",
