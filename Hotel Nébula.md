@@ -382,7 +382,7 @@
  {
 
 "servico_id" : "(ser9097)"
-"nome": "café da manhã", "acompanhamentos, bebidas, cigarros, roupas de cama ,
+"nome": "café da manhã, acompanhamentos, bebidas, cigarros, roupas de cama ,
 concierges".
 }
 
