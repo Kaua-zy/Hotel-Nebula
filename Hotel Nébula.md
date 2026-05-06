@@ -364,3 +364,49 @@
 
 }
 ```
+# Hospedagens 1
+
+``` json
+{
+
+"id": "9878",
+"id_reserva": "4799",
+"hospede_id": "9878",
+"quarto_id" : "9878",
+"checkin" : "14/09/2025",
+"checkout" : "20/09/2025",
+"status": "encerrada",
+"funcionario_do_checkin": "Lucas Cardoso"
+"funcionario_do_checkout": "Matheus Alves"
+"servicos_consumidos":
+ {
+
+"servico_id" : "(ser9097)"
+"nome": "café da manhã", "acompanhamentos, bebidas, cigarros, roupas de cama ,
+concierges".
+}
+
+{
+"quantidade": 
+
+"Cigarros" :  "(1 maço por dia)",
+
+"Roupas de cama" : "(troca acontece duas vez ao dia)",
+
+"Acompanhamentos": "(2 vezes, no almoço e janta)",
+
+"Bebidas": "(2 vezes, no almoço e janta)",
+
+"Concierges" : "(3 vezes ao dia)"
+}
+
+  "total": "155.00",
+  "data": "15/09/2025"
+
+ "total_servicos": 155.00,
+  "total_diarias": 1800.00,
+  "total_geral": 1245.00,
+  "observacoes" : "nenhuma"
+
+}
+```
