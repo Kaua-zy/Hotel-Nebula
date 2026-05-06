@@ -319,7 +319,7 @@
 "observacoes": "Nenhuma",
 "criacao_checkin": "11/09/2025",
 "horario": "18:47",
-"atualizacao: "11/09/2025",
+"atualizacao": "11/09/2025",
 "horario": "22:34"
 
 }
