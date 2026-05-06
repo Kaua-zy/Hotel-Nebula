@@ -364,7 +364,7 @@
 
 }
 ```
-# Hospedagen 1
+# Hospedagem 1
 
 ``` json
 {
@@ -410,7 +410,7 @@
 
 }
 ```
-# Hospedagens 2
+# Hospedagem 2
 
 ``` json
 {
