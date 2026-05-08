@@ -644,6 +644,42 @@
   "ativo": true
 }
 ```
+  # Funcionário - Larissa Silva Costa
+  
+``` json
+{
 
+"id_funcionario": "1694",
+"nome": "Larissa Silva Costa",
+"cpf": "955.683.821-44",
+"data_nascimento": "18/02/1993"
+"email_corporativo": "larissacosta@nebulahotel.com",
+"email_pessoal": "larisilva1867@gmail.com"
+"telefone": "+55 11 97424-6525",
+"cargo": "Assistente Financeiro",
+"departamento": "Financeiro",
+
+  {
+
+"turno": "Manhã",
+"entrada": "07:00",
+"saida": "15:00"
+
+}
+ 
+ {
+"Permissoes": 
+
+"Estornar pagamentos",
+"Aprovar reembolso",
+"Gerar relatórios financeiros",
+
+  "data_admissao": "13/06/2022",
+  "salario": "4,300.00,"
+  "ativo": true
+ }  
+
+}
+```
 
 
