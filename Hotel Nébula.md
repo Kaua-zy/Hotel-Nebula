@@ -446,9 +446,10 @@
   "total_geral": 780.00,
   "observacoes" : "nenhuma"
   }
-
-# Hospedagem 3
 ```
+# Hospedagem 3
+
+``` json
 {
 
 "id": "9829",
