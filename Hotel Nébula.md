@@ -511,8 +511,36 @@
 },
 
   "nota_fiscal": "MC:001463",
-  "data_criacao": "2025-04-14",
+  "data_criacao": "20/09/2025",
   "horario" : "18:32"
 }
 ```
+# Pagamento 2
 
+``` json
+{
+
+"id_do_pagamento": "pag(8867)"
+"hospedagem_id": "9879",
+"reserva_id": "4780",  
+"hospede_id": "9859",
+"valor_total": "500.00"
+"status": "pago",
+"data_pagamento": "16/09/2025" 
+"Horario" : "16:22"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "elo",
+"valor": 500.00,
+"num_parcelas": 2,
+"valor_parcela": 250.00,
+"status": "aprovado",
+"transacao_id": "LOC-ELO-04982"
+},
+
+  "nota_fiscal": "EL:002183",
+  "data_criacao": "16/09/2025",
+  "horario" : "16:22"
+}
+```
