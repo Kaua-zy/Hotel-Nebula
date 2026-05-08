@@ -480,7 +480,7 @@
 
  "total_servicos": 195.00,
   "total_diarias": 100.00,
-  "total_geral": 295.00,
+  "total_geral": 895.00,
   "observacoes" : "Nenhuma"
   }
 
@@ -498,7 +498,7 @@
 "valor_total": "2205.00"
 "status": "pago",
 "data_pagamento": "20/09/2025" 
-"Horario" : "18:32"
+"Horario" : "18:34"
 { 
 
 "metodo_de_pagamento": "cartao_credito"
@@ -512,7 +512,7 @@
 
   "nota_fiscal": "MC:001463",
   "data_criacao": "20/09/2025",
-  "horario" : "18:32"
+  "horario" : "18:34"
 }
 ```
 # Pagamento 2
@@ -542,5 +542,272 @@
   "nota_fiscal": "EL:002183",
   "data_criacao": "16/09/2025",
   "horario" : "16:22"
+}
+```
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+v# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
+}
+```
+# Pagamento 2
+
+``` json
+{
+
+"id_do_pagamento": "pag(8977)"
+"hospedagem_id": "9829",
+"reserva_id": "4781",  
+"hospede_id": "9880",
+"valor_total": "895.00"
+"status": "pago",
+"data_pagamento": "16/09/2025"  
+"Horario" : "17:48"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Itau",
+"valor": 895.00,
+"num_parcelas": 3
+"valor_parcela": "298,33"
+"status": "aprovado",
+"transacao_id": "CTI-ITA-05781"
+},
+
+  "nota_fiscal": "ITA:003174",
+  "data_criacao": "16/09/2025",
+  "horario" : "17:48"
 }
 ```
