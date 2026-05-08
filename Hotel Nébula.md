@@ -596,7 +596,8 @@
 
 }
    
-  "permissoes": 
+  "Permissões":
+
     "checkin",
     "checkout",
     "reservas_visualizar",
@@ -631,7 +632,7 @@
 
 }
    
-"Permissoes": 
+"Permissões": 
 
 "Resolver Conflitos",
 "Aprovar descontos",
@@ -668,7 +669,7 @@
 }
  
  {
-"Permissoes": 
+"Permissões": 
 
 "Estornar pagamentos",
 "Aprovar reembolso",
