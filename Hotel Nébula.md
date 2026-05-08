@@ -460,7 +460,7 @@
 "checkout" : "18/09/2025",
 "status": "encerrada",
 "funcionario_do_checkin": "Jhony Snatana"
-"funcionario_do_checkout": "Larissa Cardoso"
+"funcionario_do_checkout": "Larissa Silva Costa"
 "servicos_consumidos":
  {
 
