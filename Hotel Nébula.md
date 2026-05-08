@@ -446,84 +446,9 @@
   "total_geral": 780.00,
   "observacoes" : "nenhuma"
   }
-# Hospedagem 3
-
-``` json
-{
-
-"id": "9829",
-"id_reserva": "4781",
-"hospede_id": "9880",
-"quarto_id" : "9877",
-"checkin" : "11/04/2025",
-"checkout" : "18/09/2025",
-"status": "encerrada",
-"funcionario_do_checkin": "Jhony Snatana"
-"funcionario_do_checkout": "Larissa Cardoso"
-"servicos_consumidos":
- {
-
-"servico_id" : "(ser9542)"
-"nome": "café da manhã", " bebidas" , "lavanderia", "cigarros",
-}
-
-{
-  "quantidade": 
-
-"Café da manhã" "(uma vez ao dia)"
-"Bebidas": "(2 vezes, no almoço e janta)",
-"Cigarros" : "(2 maço por dia)"
-
-  "total": "700.00",
-  "data": "13/04/2025",
-
- "total_servicos": 195 .00,
-  "total_diarias": 100.00,
-  "total_geral": 295.00,
-  "observacoes" : "Nenhuma"
-  }
-
-}
-# Hospedagem 3
-
-``` json
-{
-
-"id": "9829",
-"id_reserva": "4781",
-"hospede_id": "9880",
-"quarto_id" : "9877",
-"checkin" : "11/04/2025",
-"checkout" : "18/09/2025",
-"status": "encerrada",
-"funcionario_do_checkin": "Jhony Snatana"
-"funcionario_do_checkout": "Larissa Cardoso"
-"servicos_consumidos":
- {
-
-"servico_id" : "(ser9542)"
-"nome": "café da manhã", " bebidas" , "lavanderia", "cigarros",
-}
-
-{
-  "quantidade": 
-
-"Café da manhã" "(uma vez ao dia)"
-"Bebidas": "(2 vezes, no almoço e janta)",
-"Cigarros" : "(2 maço por dia)"
-
-  "total": "700.00",
-  "data": "13/04/2025",
-
- "total_servicos": 195 .00,
-  "total_diarias": 100.00,
-  "total_geral": 295.00,
-  "observacoes" : "Nenhuma"
-  }
 
 # Hospedagem 3
-
-``` json
+```
 {
 
 "id": "9829",
@@ -560,3 +485,5 @@
 
 }
 ```
+
+
