@@ -641,7 +641,7 @@
 
   
   "data_admissao": "10/02/2021",
-  "salario": 4,100.00,
+  "salario": 4,000.00,
   "ativo": true
 }
 ```
@@ -664,7 +664,7 @@
 
 "turno": "Manhã",
 "entrada": "07:00",
-"saida": "15:00"
+"saida": "15:00",
 
 }
  
