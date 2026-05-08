@@ -478,7 +478,7 @@
   "total": "700.00",
   "data": "13/04/2025",
 
- "total_servicos": 195 .00,
+ "total_servicos": 195.00,
   "total_diarias": 100.00,
   "total_geral": 295.00,
   "observacoes" : "Nenhuma"
