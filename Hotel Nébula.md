@@ -524,7 +524,7 @@
 "hospedagem_id": "9879",
 "reserva_id": "4780",  
 "hospede_id": "9859",
-"valor_total": "500.00"
+"valor_total": "950.00"
 "status": "pago",
 "data_pagamento": "16/09/2025" 
 "Horario" : "16:22"
@@ -532,9 +532,9 @@
 
 "metodo_de_pagamento": "cartao_credito"
 "cartão": "elo",
-"valor": 500.00,
+"valor": 950.00,
 "num_parcelas": 2,
-"valor_parcela": 250.00,
+"valor_parcela": 475.00,
 "status": "aprovado",
 "transacao_id": "LOC-ELO-04982"
 },
