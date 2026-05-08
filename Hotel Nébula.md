@@ -573,3 +573,41 @@
   "horario" : "17:48"
 }
 ```
+  # Funcionário - Lucas Cardoso Alves
+  
+``` json
+{
+
+"id_funcionario": "1267",
+"nome": "Lucas Cardoso Alves",
+"cpf": "933.219.461-21",
+"data_nascimento": "18/02/1996"
+"email_corporativo": "lucacardoso1678@nebulahotel.com",
+"email_pessoal": "lucascardoso1996@gmail.com"
+"telefone": "+55 11 99463-1987",
+"cargo": "recepcionista",
+"departamento": "recepção",
+
+  {
+
+"turno": "Manhã",
+"entrada": "06:30",
+"saida": "14:30"
+
+}
+   
+  "permissoes": 
+    "checkin",
+    "checkout",
+    "reservas_visualizar",
+    "reservas_editar"
+    "ligacão_para_quartos"
+  
+  "data_admissao": "09/04/2023",
+  "salario": 3400.00,
+  "ativo": true
+}
+```
+
+
+
