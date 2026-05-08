@@ -608,6 +608,42 @@
   "ativo": true
 }
 ```
+# Funcionário - Matheus Alves de Lima Santos
+  
+``` json
+{
+
+"id_funcionario": "1467",
+"nome": "Matheus Alves de Lima Santos",
+"cpf": "942.273.661-37",
+"data_nascimento": "18/02/1991"
+"email_corporativo": "matheuslima2177@nebulahotel.com",
+"email_pessoal": "mattheusalvesli22@gmail.com"
+"telefone": "+55 11 98234-8427",
+"cargo": " Supervisor de recepcão",
+"departamento": "recepção",
+
+  {
+
+"turno": "Tarde",
+"entrada": "14:00",
+"saida": "22:00"
+
+}
+   
+"Permissoes": 
+
+"Resolver Conflitos",
+"Aprovar descontos",
+"Cancelar reservas",
+"Autorizar upgrades",
+
+  
+  "data_admissao": "10/02/2021",
+  "salario": 4,100.00,
+  "ativo": true
+}
+```
 
 
 
