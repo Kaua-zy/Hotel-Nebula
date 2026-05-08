@@ -641,7 +641,7 @@
 
   
   "data_admissao": "10/02/2021",
-  "salario": 4,000.00,
+  "salario": "4,000.00,"
   "ativo": true
 }
 ```
