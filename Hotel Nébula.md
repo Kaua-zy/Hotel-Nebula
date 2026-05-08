@@ -486,5 +486,33 @@
 
 }
 ```
+# Pagamento 1
 
+``` json
+{
+
+"id_do_pagamento": "pag(8990)"
+"hospedagem_id": "9878",
+"reserva_id": "4799",  
+"hospede_id": "9868",
+"valor_total": "2205.00"
+"status": "pago",
+"data_pagamento": "20/09/2025" 
+"Horario" : "18:32"
+{ 
+
+"metodo_de_pagamento": "cartao_credito"
+"cartão": "Mastercard",
+"valor": 2205.00,
+"num_parcelas": 5,
+"valor_parcela": 441.00,
+"status": "aprovado",
+"transacao_id": "TMW-MASTERCARD-02386"
+},
+
+  "nota_fiscal": "MC:001463",
+  "data_criacao": "2025-04-14",
+  "horario" : "18:32"
+}
+```
 
