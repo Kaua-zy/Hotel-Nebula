@@ -682,5 +682,42 @@
 
 }
 ```
+  # Funcionário - Larissa Silva Costa
+  
+``` json
+{
+
+"id_funcionario": 1877,
+"nome": "Jhony Santana",
+"cpf": 962.308.479-86,
+"data_nascimento": "10/09/1997"
+"email_corporativo": "jhonsantana1876@nebulahotel.com",
+"email_pessoal": "jhonsant2211@gmail.com"
+"telefone": "+55 11 97814-6745",
+"cargo": "Segurança",
+"departamento": "Monitor de Câmeras",
+
+  {
+
+"turno": "Tarde",
+"entrada": "15:00",
+"saida": "21:00"
+
+}
+ 
+ {
+"Permissoes": 
+
+"Monitorar Câmeras",
+"Registrar ocorreências",
+"acionar emergência",
+
+  "data_admissao": "18/02/2019",
+  "salario": "3,800.00,"
+  "ativo": true
+ }  
+
+}
+```
 
 
