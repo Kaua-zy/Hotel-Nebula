@@ -682,7 +682,7 @@
 
 }
 ```
-  # Funcionário - Larissa Silva Costa
+  # Funcionário - Jhony Santana
   
 ``` json
 {
@@ -719,5 +719,44 @@
 
 }
 ```
+  # Funcionário - Michel Oliveira
+  
+``` json
+{
+
+"id_funcionario": 1751,
+"nome": "Michel Oliveira",
+"cpf": 467.928.461-39,
+"data_nascimento": "04/02/1993"
+"email_corporativo": "micheloliveira@nebulahotel.com",
+"email_pessoal": "mioliveira1482@gmail.com"
+"telefone": "+55 11 96421-8375",
+"cargo": "Técnico",
+"departamento": "Manutenção",
+
+  {
+
+"turno": "manhã",
+"entrada": "11:00",
+"saida": "19:00"
+
+}
+ 
+ {
+"Permissoes": 
+
+"Receber chamados",
+"Atualizar status de manutenção",
+"Marcar equipamentos como reparos",
+"Solicitar peças"
+
+  "data_admissao": "12/07/2021",
+  "salario": "3,800.00,"
+  "ativo": true
+ }  
+
+}
+```
+
 
 
