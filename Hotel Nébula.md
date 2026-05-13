@@ -689,7 +689,7 @@
 
 "id_funcionario": 1877,
 "nome": "Jhony Santana",
-"cpf": 962.308.479-86,
+"cpf": "962.308.479-86",
 "data_nascimento": "10/09/1997"
 "email_corporativo": "jhonsantana1876@nebulahotel.com",
 "email_pessoal": "jhonsant2211@gmail.com"
