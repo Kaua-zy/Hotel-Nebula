@@ -726,7 +726,7 @@
 
 "id_funcionario": 1751,
 "nome": "Michel Oliveira",
-"cpf": 467.928.461-39,
+"cpf": "467.928.461-39",
 "data_nascimento": "04/02/1993"
 "email_corporativo": "micheloliveira@nebulahotel.com",
 "email_pessoal": "mioliveira1482@gmail.com"
