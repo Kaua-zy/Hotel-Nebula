@@ -758,5 +758,45 @@
 }
 ```
 
+  # Funcionário - Marcelo Henrique Amorim
+  
+``` json
+{
+
+"id_funcionario": 1198,
+"nome": "Marcelo Henrique",
+"cpf": 223.628.149-39,
+"data_nascimento": "14/10/1992"
+"email_corporativo": "marcelohenri@nebulahotel.com",
+"email_pessoal": "henriquecel4392@gmail.com"
+"telefone": "+55 11 94224-5768",
+"cargo": "Recepcão",
+"departamento": "Recepcionista",
+
+  {
+
+"turno": "Tarde",
+"entrada": "14:30",
+"saida": "22:30"
+
+}
+ 
+ {
+"Permissoes": 
+
+
+    "checkin",
+    "checkout",
+    "reservas_visualizar",
+    "reservas_editar"
+    "ligacão_para_quartos"
+
+  "data_admissao": "13/06/2023",
+  "salario": "3,400.00,"
+  "ativo": true
+ }  
+
+}
+```
 
 
