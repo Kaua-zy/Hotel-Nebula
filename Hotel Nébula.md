@@ -765,7 +765,7 @@
 
 "id_funcionario": 1198,
 "nome": "Marcelo Henrique",
-"cpf": 223.628.149-39,
+"cpf": 223.628.149-39",
 "data_nascimento": "14/10/1992"
 "email_corporativo": "marcelohenri@nebulahotel.com",
 "email_pessoal": "henriquecel4392@gmail.com"
